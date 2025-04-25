@@ -1,0 +1,32 @@
+{
+    "id": "28BB55EE",
+    "path": "~/Coding/Personal Projects/R/Analyzing Forest Fire Data/analyzingForestFireData.Rmd",
+    "project_path": "analyzingForestFireData.Rmd",
+    "type": "r_markdown",
+    "hash": "2927972288",
+    "contents": "",
+    "dirty": false,
+    "created": 1732807927253.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,18",
+        "scrollLine": "0",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "249:100",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745553326,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745553326355,
+    "read_only": false,
+    "read_only_alternatives": []
+}
